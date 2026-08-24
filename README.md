@@ -4,14 +4,6 @@ Backend-rooted **Full-Stack Developer** building clean, reliable, and scalable w
 
 Started with **Laravel, PHP, and MySQL** in 2017; now working across **Next.js, React, React Native**, and modern AI-assisted development workflows.
 
-## About / Focus
-
-- Full-stack web and mobile application development
-- Clean and scalable application architecture
-- APIs, deployments, and infrastructure workflows
-- Product-minded engineering with attention to real business needs
-- AI-assisted workflows without losing code quality
-
 ## Tech Stack
 
 ### Backend
