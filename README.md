@@ -1,8 +1,10 @@
 Hi, I'm Burak
 
-Backend-rooted **Full-Stack Developer** building clean, reliable, and scalable web/mobile products.
+I'm a backend-driven Full-Stack Developer passionate about building scalable, reliable, and well-architected web and mobile applications.
 
-Started with **Laravel, PHP, and MySQL** in 2017; now working across **Next.js, React, React Native**, and modern AI-assisted development workflows.
+My journey started in 2017 with Laravel, PHP, and MySQL. Today, I work across Next.js, React, and React Native, combining strong backend foundations with modern frontend technologies and AI-assisted development workflows.
+
+I value clean architecture, performance, and maintainability — turning complex ideas into simple, efficient, and production-ready solutions.
 
 ## Tech Stack
 
